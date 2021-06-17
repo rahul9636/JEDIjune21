@@ -4,5 +4,9 @@ class HelloWorld {
 	System.out.println("Hello world again");
 
     }
+    public void Greeting(String name){
+	System.out.println("hello world);
+    }
+    
 }
 
