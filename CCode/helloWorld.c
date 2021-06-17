@@ -7,3 +7,4 @@ int main(){
 void greeting(char name []){
 	printf("Hey , my name is %s",name);
 }	
+
